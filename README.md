@@ -1,4 +1,4 @@
-# Full Stack 
+### 📌 AWS Image Upload project
 
 - ✅ Spring Boot 3
 - ✅ HTTP & API 
